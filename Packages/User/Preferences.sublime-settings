@@ -6,9 +6,9 @@
   "font_size": 10,
   "side_bar_layout": "commit_graph_as_column",
   "tab_size": 2,
-  "theme": "Merge Dark.sublime-theme",
   "editor_path": "/usr/bin/code",
   "gtk_client_side_window_decorations": false,
   "ignore_diff_white_space": false,
   "image_diff_style": "side-by-side",
+  "render_commit_dialog_message_at_top": true,
 }
