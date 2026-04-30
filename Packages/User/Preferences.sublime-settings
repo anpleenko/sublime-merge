@@ -2,7 +2,7 @@
   "diff_style": "inline",
   "editor_argument_format": "--goto ${file}:${line}:${col}",
   "expand_merge_commits_by_default": false,
-  "font_face": "Hack",
+  "font_face": "Ubuntu Sans Mono",
   "font_size": 12,
   "side_bar_layout": "commit_graph_as_column",
   "tab_size": 2,
